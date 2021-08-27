@@ -1,0 +1,2 @@
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/ND_Robotics_Software_Engineer/build_my_world/build
+
